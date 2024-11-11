@@ -49,7 +49,7 @@ CRUD API for user account management, where users can add, update, delete, and r
 
     - Clone the repository:
     ```sh
-    git clone <this_repo_url>
+    git clone https://github.com/SaketV8/basic-crud-api-golang.git
     ```
     
     - Install dependencies:
