@@ -192,7 +192,7 @@ API icon created by Freepik - [Flaticon](https://www.flaticon.com/free-icons/api
 ```
 MIT License
 
-Copyright (c) 2024 Saket Kumar Maurya
+Copyright (c) 2024 Saket Maurya
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
