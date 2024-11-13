@@ -52,6 +52,11 @@ CRUD API for user account management, where users can add, update, delete, and r
     git clone https://github.com/SaketV8/basic-crud-api-golang.git
     ```
     
+    - Navigate to the project directory:
+    ```sh
+    cd basic-crud-api-golang
+    ```
+
     - Install dependencies:
     ```sh
     go mod tidy
