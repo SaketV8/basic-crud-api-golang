@@ -180,7 +180,7 @@ DELETE /api/delete-user-account
 ## :compass: About
 This project was created as a task for the backend department recruitment process at ABES GeeksforGeeks
 
-![Selection Status](https://img.shields.io/badge/Selection%20Status%20-PENDING-daed87?style=for-the-badge)
+![Selection Status](https://img.shields.io/badge/Selection%20Status%20-SELECTED-22c55e?style=for-the-badge)
 
 <!-- <img src="https://img.shields.io/badge/Selection%20Status%20-PENDING-daed87?style=for-the-badge" alt="Showcase Project"> -->
 
